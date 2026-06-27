@@ -1,6 +1,10 @@
 # 📄🧐 AI Job Recommendation System — MCP Server
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mcp-job-recommendation-system-yrcxfqi6hkn4qtqjkxdmpq.streamlit.app/)
+
 An intelligent, AI-powered job recommendation system that analyzes your resume and fetches personalized job listings from **LinkedIn** and **Naukri** in real time. Built with **FastMCP**, **Groq LLM**, **Apify**, and **Streamlit**.
+
+🌐 **Live Demo:** [https://mcp-job-recommendation-system-yrcxfqi6hkn4qtqjkxdmpq.streamlit.app/](https://mcp-job-recommendation-system-yrcxfqi6hkn4qtqjkxdmpq.streamlit.app/)
 
 ---
 
